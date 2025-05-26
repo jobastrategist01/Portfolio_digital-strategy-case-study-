@@ -31,7 +31,7 @@ This project demonstrates how a small company can leverage structured research, 
 Quick links to the main files and documentation within this repository:
 
 ### 🗂️ Data & Analysis
-- 📄 [sample_comments.csv](./Data/sample_comments.csv) — Simulated dataset of user comments  
+- 📄 [sample_comments.csv](./Data/sample_comments.xlsx) — Simulated dataset of user comments  
 - 📝 [Comment Analysis Report](./Analysis/comment_analysis_report.md) — Insights from sentiment and topic classification  
 
 ### 🧠 Strategy Documents
